@@ -1,5 +1,9 @@
-Hello Git
-print('pizza)
-print('somasa')
-print('hungry)
-         again demo 
+hungry=input("are you hungry);
+if(hungry=="yes")
+ pint("eat samosa")'
+ print("eat pizza");
+ print("eat burger");
+else
+   thirst=input("are you thirst");
+if(thirsty=="yes");
+print drink water
