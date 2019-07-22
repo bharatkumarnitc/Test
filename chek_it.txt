@@ -2,3 +2,4 @@ hungry=input("are you hungry);
 if(hungry=="yes")
  pint("eat samosa")'
  print("eat pizza");
+print ("eat burger");
